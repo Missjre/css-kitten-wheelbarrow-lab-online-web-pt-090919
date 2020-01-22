@@ -15,7 +15,7 @@
 }
 
 
-  .kitty-3 {
+  #{
   position: absolute;
   z-index: 4;
   top: 260px;
