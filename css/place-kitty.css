@@ -23,9 +23,9 @@
 }
 
 
-  .kitty-4 {
+  #ball  {
   position: absolute;
-  z-index: 5;
+  z-index: 5 ;
   top: 291px;
   left: 319px;
 
